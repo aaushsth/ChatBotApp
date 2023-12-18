@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="menu_chat_description">Sample app demonstrating a conversational UI</string>
+    <string name="chat_bot">Chat bot</string>
+    <string name="action_try">Try...</string>
+    <string name="chat_label">Message</string>
+    <string name="action_send">Send</string>
+</resources>
